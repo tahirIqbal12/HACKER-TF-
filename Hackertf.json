@@ -16,6 +16,12 @@
         "key": "TF",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "131f218d5ce01c6e",
+        "key": "Hafsa-Tayyab",
+        "expirydate": "22-11-2025",
+        "Allowoffline": true
     }
     
 ]
