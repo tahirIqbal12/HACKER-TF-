@@ -15,7 +15,7 @@
         "device_id": "99c00f069b64514a",
         "key": "TF",
         "expirydate": "22-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "131f218d5ce01c6e",
